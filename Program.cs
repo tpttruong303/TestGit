@@ -11,6 +11,7 @@ namespace TestGit
         public static void Main(string[] args)
         {
             Console.WriteLine("sua");
+            Console.WriteLine("di con");
         }
     }
 }
