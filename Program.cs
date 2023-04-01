@@ -10,7 +10,8 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            int x = 1 + 2; 
+            Console.WriteLine(x);
         }
     }
 }
